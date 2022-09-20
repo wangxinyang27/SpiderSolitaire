@@ -1,0 +1,3 @@
+/home/wxy/桌面/项目合集/蜘蛛纸牌(c++)/cmake-build-debug/CMakeFiles/_c___.dir
+/home/wxy/桌面/项目合集/蜘蛛纸牌(c++)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wxy/桌面/项目合集/蜘蛛纸牌(c++)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
